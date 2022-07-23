@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "221494322665",
+    "project_id": "button-click-69432",
+    "storage_bucket": "button-click-69432.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221494322665:android:aab35e38073956cc8b5778",
+        "android_client_info": {
+          "package_name": "com.example.firebasesetup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "221494322665-bbu576bnje0sehachcm5pdt2l2fvqv5i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrjpRkO4wClJeVusFCdBlANVdZp0f9b68"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "221494322665-bbu576bnje0sehachcm5pdt2l2fvqv5i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
