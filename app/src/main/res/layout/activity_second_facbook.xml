@@ -5,8 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/bg"
-    tools:context=".SecondActivity">
-
+    tools:context=".SecondActivityFacbook">
     <RelativeLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent">
@@ -105,4 +104,5 @@
             android:textColor="#56F8F8"
             android:textSize="16sp" />
     </RelativeLayout>
+
 </androidx.constraintlayout.widget.ConstraintLayout>
